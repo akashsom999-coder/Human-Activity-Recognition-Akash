@@ -142,7 +142,7 @@ Human-Activity-Recognition/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/pankajydv61/Human-Activity-Recognition.git
+git clone https://github.com/akashsom999-coder/Human-Activity-Recognition-Akash 
 ```
 
 ### Navigate
@@ -215,17 +215,17 @@ screenshots/
 
 # 👨‍💻 Author
 
-**Pankaj Yadav**
+**Akash Som**
 
 MCA (Data Science)
 
 Lovely Professional University
 
 GitHub:
-https://github.com/pankajydv61
+https://github.com/akashsom999-coder/
 
 LinkedIn:
-https://www.linkedin.com/in/pankajyadav61/
+https://www.linkedin.com/in/akash-som-creative/
 
 ---
 
